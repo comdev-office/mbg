@@ -1,1 +1,4 @@
-Belajar membuat aplikasi untuk mendukung program MBG
+scikit-learn==1.4.2
+numpy
+pandas
+streamlit
